@@ -19,11 +19,7 @@ baseline_model.ipynb - Trains  raw features(dataset.csv ) on RandomForestClassif
 graph_model.ipynb - rains  graph features(newDataset2.csv) on RandomForestClassifier, classify_with_kmeans  and computes feature importance.
 
 
-# Evaluations 
 
-This folder contains the code for UI for the project. 
-
-Link for UI : https://swm-visualization-g26.netlify.app
 
 
 
